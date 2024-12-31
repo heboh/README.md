@@ -49,15 +49,15 @@ Dengan penyesuaian tata bahasa dan aturan gramatikal yang presisi.
 
 ## 🎨 Proyek Unggulan
 
-### 📚 [Library Konversi Angka ke Teks (Python)](https://github.com/gunawan/angka-ke-teks)
+### 📚 Library Konversi Angka ke Teks (Python)
 - Sebuah library Python open-source yang fleksibel dan mudah digunakan.
 - Mendukung berbagai format keluaran, termasuk bilangan pecahan, persen, dan mata uang.
 
-### 🌎 [Konverter Online](https://github.com/gunawan/konversi-angka)
+### 🌎 Konverter Online]
 - Aplikasi web berbasis JavaScript untuk konversi angka ke teks secara real-time.
 - Cocok untuk pengguna non-teknis yang membutuhkan solusi cepat dan sederhana.
 
-### ⚙️ [Plugin untuk Aplikasi Keuangan](https://github.com/gunawan/plugin-keuangan)
+### ⚙️ Plugin untuk Aplikasi Keuangan
 - Plugin untuk platform akuntansi populer seperti QuickBooks dan Xero.
 - Mempermudah pelaporan keuangan dalam format teks yang jelas dan dapat dibaca.
 
